@@ -1,0 +1,20 @@
+# Ignore all files by default
+.DS_Store
+
+*.gz
+*.snm
+*.xml
+*.nav
+*.log
+*.fls
+*.fdb_latexmk
+*.bbl
+*.toc
+*.aux
+*.bcf
+*.out
+*.synctex(busy)
+Documents/Slides/*.pdf
+Documents/*.pdf
+*.blg
+*.*SAVE-ERROR
