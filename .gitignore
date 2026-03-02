@@ -14,9 +14,16 @@
 *.bcf
 *.out
 *.synctex(busy)
+<<<<<<< HEAD
 *.synctex
 # Documents/Slides/*.pdf
 # Documents/*.pdf
 *.blg
 *.*SAVE-ERROR
 *.xdv
+=======
+Documents/Slides/*.pdf
+Documents/*.pdf
+*.blg
+*.*SAVE-ERROR
+>>>>>>> eaf8ff4de6d69d2099db7daf0857312b18bf5651
